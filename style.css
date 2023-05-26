@@ -227,7 +227,7 @@ ul li span:hover{
         left: 0px;
     }
 }
-@media(max-width:320px){
+@media(max-width:310px){
     .todo-app h2{
         font-size: 15px;
     }
@@ -247,7 +247,7 @@ ul li span:hover{
     }
 
 }
-@media(max-width:319px){
+@media(max-width:309px){
     ul li{
         padding: 12px 8px 12px 20px;
         font-size: 14px;
@@ -262,6 +262,5 @@ ul li span:hover{
         top: 2px;
         width: 1px;
         height: 31px;
-}
-    
+}    
 }
